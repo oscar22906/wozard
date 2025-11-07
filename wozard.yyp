@@ -2,7 +2,7 @@
   "$GMProject":"v1",
   "%Name":"wozard",
   "AudioGroups":[
-    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
   "configs":{
     "children":[],
@@ -41,7 +41,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.13.1.193",
+    "IDEVersion":"2024.14.0.207",
   },
   "name":"wozard",
   "resources":[
@@ -53,7 +53,6 @@
     {"id":{"name":"Splatter","path":"objects/Splatter/Splatter.yy",},},
     {"id":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
     {"id":{"name":"Level2","path":"rooms/Level2/Level2.yy",},},
-    {"id":{"name":"Level3","path":"rooms/Level3/Level3.yy",},},
     {"id":{"name":"LevelTemplate","path":"rooms/LevelTemplate/LevelTemplate.yy",},},
     {"id":{"name":"flesh_splatter","path":"sprites/flesh_splatter/flesh_splatter.yy",},},
     {"id":{"name":"healthbar_flesh","path":"sprites/healthbar_flesh/healthbar_flesh.yy",},},
@@ -91,10 +90,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Level3","path":"rooms/Level3/Level3.yy",},},
+    {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
     {"roomId":{"name":"Level2","path":"rooms/Level2/Level2.yy",},},
     {"roomId":{"name":"LevelTemplate","path":"rooms/LevelTemplate/LevelTemplate.yy",},},
-    {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

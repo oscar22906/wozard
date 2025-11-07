@@ -5,7 +5,7 @@ if (instance_number(enemy1) <= 0) {
     }
     
     else {
-        room_goto(Level3);
+        room_goto(Level1);
     }
     
     
