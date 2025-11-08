@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"player_obj",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"CreditsButton",
+  "eventList":[],
   "managed":true,
-  "name":"player_obj",
+  "name":"CreditsButton",
   "overriddenProperties":[],
   "parent":{
-    "name":"Global Requirements",
-    "path":"folders/Objects/Global Requirements.yy",
+    "name":"UI Elements",
+    "path":"folders/Objects/UI Elements.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"credits_button",
+    "path":"sprites/credits_button/credits_button.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

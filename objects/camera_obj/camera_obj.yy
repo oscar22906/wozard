@@ -11,8 +11,8 @@
   "name":"camera_obj",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Global Requirements",
+    "path":"folders/Objects/Global Requirements.yy",
   },
   "parentObjectId":null,
   "persistent":false,

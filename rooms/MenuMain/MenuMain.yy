@@ -5,7 +5,12 @@
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
-  "instanceCreationOrder":[],
+  "instanceCreationOrder":[
+    {"name":"inst_7C067638","path":"roomui/RoomUI/RoomUI.yy",},
+    {"name":"inst_532E0FA5","path":"roomui/RoomUI/RoomUI.yy",},
+    {"name":"inst_4D100EB8","path":"roomui/RoomUI/RoomUI.yy",},
+    {"name":"inst_4B13DFB1","path":"roomui/RoomUI/RoomUI.yy",},
+  ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
