@@ -1,27 +1,27 @@
 {
   "$GMSprite":"v2",
-  "%Name":"titlecard",
+  "%Name":"rockpaperwizardlogo",
   "bboxMode":0,
   "bbox_bottom":108,
   "bbox_left":7,
   "bbox_right":237,
-  "bbox_top":6,
+  "bbox_top":3,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"756257f6-159f-4354-99cc-74e983241a32","name":"756257f6-159f-4354-99cc-74e983241a32","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"7eb47b23-ac2e-4e24-bf52-1e3aca8a0eca","name":"7eb47b23-ac2e-4e24-bf52-1e3aca8a0eca","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":120,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"8f6ba7d3-4973-430c-8d0e-7da8b66940ea","blendMode":0,"displayName":"default","isLocked":false,"name":"8f6ba7d3-4973-430c-8d0e-7da8b66940ea","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"ecc23a2b-bf1a-460e-900d-e4445299dbec","blendMode":0,"displayName":"default","isLocked":false,"name":"ecc23a2b-bf1a-460e-900d-e4445299dbec","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"titlecard",
+  "name":"rockpaperwizardlogo",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"titlecard",
+    "%Name":"rockpaperwizardlogo",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"titlecard",
+    "name":"rockpaperwizardlogo",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"756257f6-159f-4354-99cc-74e983241a32","path":"sprites/titlecard/titlecard.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"e174cd0e-c3a2-4a20-9bd0-d76a5ba8047b","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7eb47b23-ac2e-4e24-bf52-1e3aca8a0eca","path":"sprites/rockpaperwizardlogo/rockpaperwizardlogo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"13d5ec87-2d9f-430a-8a12-e55b0a7dfefb","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
