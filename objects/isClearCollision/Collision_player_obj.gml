@@ -1,6 +1,6 @@
 
 if (instance_number(enemy1) <= 0) {
-    if room != Level2 {
+    if room != Level8 {
         room_goto_next();
     }
     
